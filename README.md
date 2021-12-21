@@ -5,4 +5,5 @@
 
 
 En el siguiente repositorio: (https://github.com/jenyramirez/Tarea2_201612144.git)
+<br>
 [Tarea 2 -> Algoritmo BEAM 2](https://jenyramirez.github.io/Tarea2_201612144/)
